@@ -1,0 +1,122 @@
+{
+  "schema_version": 1,
+  "scope": "Compact CV-only teaching repository; no full scientific archive. Hashes exclude this manifest itself.",
+  "source_bundle_sha256": "be0bd65e34c9e7f94d0e3ca62e0e578547ba3b296c28e7ef8b273226c60d3d4d",
+  "files": [
+    {
+      "path": ".gitignore",
+      "bytes": 135,
+      "sha256": "9e5d31243b1e07d44835523f06c3418ce318fc77685913e82173b31635d43e6a"
+    },
+    {
+      "path": "data/replays.json",
+      "bytes": 737875,
+      "sha256": "27f65d6b5ec10e8b928c0579d8c36955ff3509922d2db9f744d22b4e3294dd9c"
+    },
+    {
+      "path": "data/SOURCE_PROVENANCE.json",
+      "bytes": 1180,
+      "sha256": "285e9e56e0c49bc0d457425ba47ffb15b8e7fa69ebde98ab40b0ef8d6d897591"
+    },
+    {
+      "path": "dist/app.js",
+      "bytes": 14010,
+      "sha256": "9ce76de6a0b7856e2e7882826550c5319dbe39127dca0c839d13841f057c5d45"
+    },
+    {
+      "path": "dist/index.html",
+      "bytes": 2059,
+      "sha256": "533cf47738a12867e9e27ced492c7b5405fc91af8024f45e86b4b62169f06280"
+    },
+    {
+      "path": "dist/styles.css",
+      "bytes": 19529,
+      "sha256": "6e853e51d22f1ece9c40b79270db9e2742fb5915bb0316b72a8c6e37a1828bc6"
+    },
+    {
+      "path": "docs/DATA_PROVENANCE.md",
+      "bytes": 2607,
+      "sha256": "afec4e2f9acd942ed61d48604bc4e86d117d3dc6fb2aeca4679dd26f8cc2e8f9"
+    },
+    {
+      "path": "docs/HANDS_ON.md",
+      "bytes": 2780,
+      "sha256": "6b208db21aa6487d733b5e7f4ecfbcf130d5472f3de464f31c986b30f08320af"
+    },
+    {
+      "path": "docs/presentation/CV yang Bisa Menyuruh AI - Public Hands-on.pdf",
+      "bytes": 15696922,
+      "sha256": "1761cb983eda36d3a9621c5865dbc454d6ea44e94270a0abc5592e0bb2f0aca6"
+    },
+    {
+      "path": "docs/screenshots/step-01.jpg",
+      "bytes": 113971,
+      "sha256": "f2f1eb77537e5812e20e1abe0bb0f29c42e121edf5ab7452024957f6b3bb99fe"
+    },
+    {
+      "path": "docs/screenshots/step-02.jpg",
+      "bytes": 119690,
+      "sha256": "55174770526510f96f7e69ef1688228843255a7932fb8b675ef69486839357d2"
+    },
+    {
+      "path": "docs/screenshots/step-03.jpg",
+      "bytes": 118910,
+      "sha256": "be187cbda2093122b444393c67d12711a4de2bedd45ff672e57758483a4312cf"
+    },
+    {
+      "path": "docs/screenshots/step-04.jpg",
+      "bytes": 124316,
+      "sha256": "68dd18ba9a90ef244172275f104c93136cb688390777d320c63794f6bf27c169"
+    },
+    {
+      "path": "evidence/Recorded AI Evidence Index.txt",
+      "bytes": 2007,
+      "sha256": "71eb3b8d0431e95360c2d66544f9cdc59a65c412ccf3bea7105e292653828385"
+    },
+    {
+      "path": "evidence/Recorded AI Requests and Responses.json",
+      "bytes": 47602,
+      "sha256": "f4734a0233de4b89913dcd580f34f2a6e5e484e27a89c18837632b4414516e3b"
+    },
+    {
+      "path": "LICENSE",
+      "bytes": 1324,
+      "sha256": "6e8d3a287c22f7f3da9e9cbc390cf2db6fad7c662b0282a0d73c62b1c44e08cb"
+    },
+    {
+      "path": "NOTICE.md",
+      "bytes": 2329,
+      "sha256": "d7a1804fd3bb4194cffbc1aa7a22905456dd9c1bbb40596e3e694f32976bd055"
+    },
+    {
+      "path": "README.md",
+      "bytes": 4241,
+      "sha256": "094deb1c0a6e6e97c31d7ad8bf6e410d477c1e85c9673f955c73e874d2888cab"
+    },
+    {
+      "path": "server.py",
+      "bytes": 5520,
+      "sha256": "c6f7a8e811d85544384e17fa60ad0e8d8e8817f17f0eb02e6993a7c67a6c0659"
+    },
+    {
+      "path": "Start CV Lab.cmd",
+      "bytes": 329,
+      "sha256": "d95beda3b92647d8d406112d8f6a38701872a34e24d24602a3a4720d85aebc03"
+    },
+    {
+      "path": "tests/frontend_smoke.cjs",
+      "bytes": 3644,
+      "sha256": "e8cf625e3ba92c8676a5933e29b51f6967f9de8a0753d43109240cd1f1c7a741"
+    },
+    {
+      "path": "tests/test_app.py",
+      "bytes": 4351,
+      "sha256": "8ef8bc034736237f9a1c0a8eaee4818f24c2b5deb2ac7e7a138a6ced243144b7"
+    },
+    {
+      "path": "THIRD_PARTY_LICENSES/HiringAudit.txt",
+      "bytes": 1110,
+      "sha256": "af34298ccb94139e340932eafde30edc848516c17dca95b85fd356934cf69dd1"
+    }
+  ]
+}

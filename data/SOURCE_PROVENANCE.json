@@ -1,0 +1,20 @@
+{
+  "repository": "PD777/HiringAudit-adversarial_cv_dataset",
+  "revision": "81a0f6b1a5c3254371e6304af9dafdc533b6c9d5",
+  "url": "https://huggingface.co/datasets/PD777/HiringAudit-adversarial_cv_dataset",
+  "license": "MIT",
+  "license_source": "https://raw.githubusercontent.com/clonerex7777/LLM-Assurance/main/LICENSE",
+  "synthetic": true,
+  "archive_cv_count": 100,
+  "archive_sha256": "37ebec01c1eed28d16a71aeb4a9f884c778935092f806d65ddeb4eb5833d03b8",
+  "archive_bytes": 436797649,
+  "attribution": "Yunfei Deng, Haotian Luo, Finn Jebing, Aldo Rodriguez; PD777 HiringAudit dataset",
+  "change": "Only baseline CV text is reused; new append-only notes are controlled synthetic experimental conditions.",
+  "study_selected_cv_count": 40,
+  "public_replay_record_ids": [
+    "H01",
+    "H09"
+  ],
+  "adaptation": "Names and direct contacts removed symmetrically; source qualification fields retained in canonical full documents; removed documents retain only anonymous ID and generic interests. Controlled notes and wrappers added locally.",
+  "illustration_selection": "H01/H09 were selected after study outcomes; cohort estimates use all40 prespecified selected profiles."
+}

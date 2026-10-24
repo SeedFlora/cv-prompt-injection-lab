@@ -1,0 +1,16 @@
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+.env
+.env.*
+*.gguf
+*.safetensors
+*.wav
+*.mp4
+*.webm
+*.srt
+*.pptx
+node_modules/
+.DS_Store
+Thumbs.db

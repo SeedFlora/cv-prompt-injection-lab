@@ -1,0 +1,19 @@
+<!doctype html>
+<html lang="en">
+<head><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1"><title>CV Evidence Lab — Prompt Injection Replay</title><meta name="description" content="A local, read-only replay of archived synthetic CV prompt-injection evidence."><link rel="stylesheet" href="/styles.css"><script src="/app.js" defer></script></head>
+<body>
+<aside class="sidebar">
+  <a class="brand" href="/" aria-label="Evidence Lab home"><span class="brand-mark">e<span>·</span></span><span>Evidence<span class="brand-light"> Lab</span><small>AI SECURITY / RESEARCH</small></span></a>
+  <div class="nav-label">CV WORKSPACE</div>
+  <nav><button class="nav-item" data-scene="cv-clean"><span class="nav-symbol">01</span><span>CV evidence audit<small>Documents → scores</small></span></button></nav>
+  <div class="nav-label scene-nav-label">DEMONSTRATION</div><div id="scene-nav" class="scene-nav"></div>
+  <div class="sidebar-bottom"><span class="status-dot"></span>Frozen local replay<small>Archived outputs. No new inference.<br>No model or HR decision runs.</small><button class="text-button" id="provenance-button">Data & methodology ↗</button></div>
+</aside>
+<main>
+  <header class="topbar"><div><span class="eyebrow">EVIDENCE BEFORE ASSURANCE</span><span class="top-divider"></span><span class="top-status">LOCAL RESEARCH WORKSPACE</span></div><div class="replay-badge"><span class="status-dot"></span> RECORDED REPLAY</div></header>
+  <section id="content" aria-live="polite"><div class="loading">Loading archived evidence…</div></section>
+  <footer><span>Synthetic public CVs · Archived local model outputs · Version 2</span><span id="footer-meta">Source-linked, reproducible evidence</span></footer>
+</main>
+
+<dialog id="provenance-modal"><div class="modal-heading"><div><span class="eyebrow">RESEARCH TRANSPARENCY</span><h2>Where every result comes from</h2></div><button class="icon-button" id="close-modal" aria-label="Close">×</button></div><div id="provenance-content"></div></dialog>
+</body></html>
