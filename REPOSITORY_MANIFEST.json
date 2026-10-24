@@ -95,8 +95,8 @@
     },
     {
       "path": "README.md",
-      "bytes": 4241,
-      "sha256": "094deb1c0a6e6e97c31d7ad8bf6e410d477c1e85c9673f955c73e874d2888cab"
+      "bytes": 4673,
+      "sha256": "c8ba89aa983d1810c2611d21a1aa2e749c446e8b4899bb852530c2167fc10d57"
     },
     {
       "path": "server.py",
