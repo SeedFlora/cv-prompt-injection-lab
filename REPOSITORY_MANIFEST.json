@@ -4,6 +4,11 @@
   "source_bundle_sha256": "be0bd65e34c9e7f94d0e3ca62e0e578547ba3b296c28e7ef8b273226c60d3d4d",
   "files": [
     {
+      "path": ".gitattributes",
+      "bytes": 47,
+      "sha256": "cacf052d41b303f0347895bafbeb3a6675661ccc392b9a726a22ed7719e7c81b"
+    },
+    {
       "path": ".gitignore",
       "bytes": 135,
       "sha256": "9e5d31243b1e07d44835523f06c3418ce318fc77685913e82173b31635d43e6a"
